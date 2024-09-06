@@ -1,21 +1,5 @@
-## Hi there 👋
 
-<!--
-**JesusF10/JesusF10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# 👋 Hello! I'm Jesus Flores
+## 👋 Hello! I'm Jesus Flores
 
 I'm a **Computer Science student** passionate about **Machine Learning** and **Data Science**. Currently, I'm diving into these fields by working on personal projects and exploring real-world data. My goal is to apply what I've learned in practical ways and continue growing my expertise in these areas. 
 
@@ -25,16 +9,26 @@ I'm a **Computer Science student** passionate about **Machine Learning** and **D
 - Model building and evaluation with **scikit-learn** and **TensorFlow**
 - Data visualization with **Matplotlib** and **Seaborn**
 
+## 🛠 Skills
+
+- ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square) Proficient
+- ![C++](https://img.shields.io/badge/-C++-orange?style=flat-square) Basic
+- ![Pandas](https://img.shields.io/badge/-Pandas-yellowgreen?style=flat-square) Intermediate
+- ![NumPy](https://img.shields.io/badge/-NumPy-yellow?style=flat-square) Intermediate
+- ![Seaborn](https://img.shields.io/badge/-Seaborn-green?style=flat-square) Intermediate
+- ![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-lightblue?style=flat-square) Intermediate
+- ![TensorFlow](https://img.shields.io/badge/-TensorFlow-red?style=flat-square) Learning
+- ![Git](https://img.shields.io/badge/-Git-orange?style=flat-square) Intermediate
+
+
 
 ## 🚀 Current Projects
 Here are some of the projects I’m currently working on:
 
+- **.**
+
 <!--
 - **[Predicting House Prices](link-to-repo)**: A machine learning project that uses linear regression to predict housing prices based on historical data.
-- **[Sentiment Analysis](link-to-repo)**: A Natural Language Processing (NLP) project that classifies text sentiment using a logistic regression model.
-- **[Titanic Survival Prediction](link-to-repo)**: A data science project based on the famous Titanic dataset.
-
-You can find more projects on my [GitHub repositories](https://github.com/your-username?tab=repositories). I’m always open to feedback and collaboration!
 
 -->
 ## 📊 GitHub Stats
@@ -53,12 +47,13 @@ I’m eager to collaborate on machine learning and data science projects. Feel f
 -->
 
 You can also reach me at:
+<!--
 - **Email**: [your.email@example.com](mailto:your.email@example.com)
+-->
 - **LinkedIn**: [Jesus Flores](www.linkedin.com/in/jesusf10/)
 - **Twitter**: [@Jesusf263](https://x.com/Jesusf263)
 
 <!--
 ## ⚡ Fun Facts
-- Besides coding, I'm interested in **[insert hobby]** and love exploring new technologies!
-- I'm also a big fan of **[insert something personal, e.g., books, sports, movies]**.
+- Working on it!
 -->
