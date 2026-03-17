@@ -1,6 +1,6 @@
 <!-- Header Animado con Typing SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=EBDBB2&center=true&vCenter=true&width=600&lines=Hey!+I'm+Jesus+Flores;Data+Scientist+Jr.+%7C+Cloud+Enthusiast;Exploring+Data+%26+Building+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=EBDBB2&center=true&vCenter=true&width=600&lines=Hey!+I'm+Jesus+Flores;Data+Scientist+Jr+%7C+Cloud+Enthusiast;Exploring+Data+%26+Building+Things" alt="Typing SVG" />
 </div>
 
 <br>
