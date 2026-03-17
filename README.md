@@ -64,6 +64,7 @@ currently transitioning more towards <b>data science</b> and <b>cloud computing<
 #### Cloud & DevOps
 
 ![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
@@ -72,6 +73,8 @@ currently transitioning more towards <b>data science</b> and <b>cloud computing<
 ![Typst](https://img.shields.io/badge/-Typst-239DAD?style=flat-square&logo=typst&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
+
+#### Tools I've used but
 
 </div>
 
