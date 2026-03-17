@@ -119,17 +119,6 @@ currently transitioning more towards <b>data science</b> and <b>cloud computing<
 
 ---
 
-<!-- Wakatime Stats -->
-<h3 align="center">Coding Time (Last 7 Days)</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JesusF10&theme=gruvbox&layout=compact&hide_border=true" />
-</div>
-
-<br>
-
----
-
 <!-- Connect with Me -->
 <h3 align="center">Connect with Me</h3>
 
