@@ -103,11 +103,12 @@ currently transitioning more towards <b>data science</b> and <b>cloud computing<
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JesusF10&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" />
 </div>
--->
+
 
 <br>
 
 ---
+-->
 
 <!-- Activity Graph -->
 <h3 align="center">Contribution Graph</h3>
