@@ -86,7 +86,7 @@ currently transitioning more towards <b>data science</b> and <b>cloud computing<
 <h3 align="center">GitHub Statistics</h3>
 
 <div align="center">
-  <img height="180em" width="600em" src="https://github-readme-streak-stats.herokuapp.com/?user=JesusF10&theme=gruvbox&hide_border=true"/>
+  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=JesusF10&theme=gruvbox&hide_border=true"/>
 </div>
 
 <div align="center">
