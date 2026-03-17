@@ -1,6 +1,6 @@
 <!-- Header Animado con Typing SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=EBDBB2&center=true&vCenter=true&width=600&lines=Hey!+I'm+Jesus+Flores;Data+Scientist+%7C+Cloud+Enthusiast;Exploring+Data+%26+Building+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=EBDBB2&center=true&vCenter=true&width=600&lines=Hey!+I'm+Jesus+Flores;Data+Scientist+Jr.+%7C+Cloud+Enthusiast;Exploring+Data+%26+Building+Things" alt="Typing SVG" />
 </div>
 
 <br>
@@ -52,17 +52,23 @@ currently transitioning more towards <b>data science</b> and <b>cloud computing<
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-#### Python Tooling (Astral Ecosystem)
+#### Python Tooling
+
 ![uv](https://img.shields.io/badge/-uv-DE5FE9?style=flat-square&logo=astral&logoColor=white)
 ![Ruff](https://img.shields.io/badge/-Ruff-FCC21B?style=flat-square&logo=ruff&logoColor=black)
 ![Ty](https://img.shields.io/badge/-Ty-00ADD8?style=flat-square&logo=astral&logoColor=white)
+![Pytest](https://img.shields.io/badge/-Pytest-3572A5?style=flat-square&logo=pytest&logoColor=white)
+![Pydantic](https://img.shields.io/badge/-Pydantic-0D36A0?style=flat-square&logo=python&logoColor=white)
+![pre-commit](https://img.shields.io/badge/-pre--commit-FAB040?style=flat-square&logo=pre-commit&logoColor=black)
 
 #### Cloud & DevOps
+
 ![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 #### Documentation & Web
+
 ![Typst](https://img.shields.io/badge/-Typst-239DAD?style=flat-square&logo=typst&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
